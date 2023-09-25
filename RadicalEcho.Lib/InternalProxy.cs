@@ -1,5 +1,4 @@
-﻿using OraclesBridge;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net.Http;
@@ -7,6 +6,8 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+
+using Knapcode.TorSharp;
 
 namespace RadicalEcho.Lib
 {
